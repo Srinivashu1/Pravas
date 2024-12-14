@@ -5038,7 +5038,6 @@ a.pswp__share--download:hover {
 
 .custom-nav>li.has-children>a:after {
     float: right;
-    content: "\f005";
     font-family: icomoon-the7-font;
     font-size: 8px
 }
@@ -5569,7 +5568,6 @@ html:not(.mobile-true) .skill-value {
 }
 
 .st-accordion li>a:after {
-    content: "\f005";
     font-family: icomoon-the7-font;
     speak: none;
     font-style: normal;
@@ -11185,7 +11183,6 @@ article.on-hover {
 }
 
 .top-header .main-nav.level-arrows-on>li.has-children>a .menu-text:after {
-    content: "\f005";
     font-family: icomoon-the7-font;
     speak: none;
     font-style: normal;
